@@ -1,1 +1,1 @@
-web: npm startnpm install express --save
+web: npm start
