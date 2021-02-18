@@ -1,0 +1,20 @@
+{
+  "name": "app.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheDarkWizard42/backend4242.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheDarkWizard42/backend4242/issues"
+  },
+  "homepage": "https://github.com/TheDarkWizard42/backend4242#readme"
+}
