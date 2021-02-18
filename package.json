@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/TheDarkWizard42/backend4242/issues"
   },
-  "homepage": "https://github.com/TheDarkWizard42/backend4242#readme"
+  "homepage": "https://github.com/TheDarkWizard42/backend4242#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
